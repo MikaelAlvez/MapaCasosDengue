@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de casos de Dengue no Brasil</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <style>
+        #legend {
+            position: absolute;
+            top: 120px;
+            left: 20px;
+            background-color: white;
+            font-size: 12px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        #legend h4 {
+            margin: 0 0 10px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .legend-color {
+            width: 10px;
+            height: 10px;
+            margin-right: 10px;
+            border: 2px solid #ccc;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center">Mapa de casos de Dengue no Brasil</h1>
+    <div id="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: red;"></div>
+            <div>Acre</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: blue;"></div>
+            <div>Alagoas</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #EE0000;"></div>
+            <div>Amapá</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #CD3700 ;"></div>
+            <div>Amazonas</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #00008B ;"></div>
+            <div>Bahia</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #0000CD ;"></div>
+            <div>Ceará</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: Black ;"></div>
+            <div>Distrito Federal</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #EEC900;"></div>
+            <div>Espírito Santo</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #00EE00 ;"></div>
+            <div>Goiás</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #0000EE ;"></div>
+            <div>Maranhão</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: green ;"></div>
+            <div>Mato Grosso</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color:  #00FF7F;"></div>
+            <div>Mato Grosso do Sul</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #8B7500;"></div>
+            <div>Minas Gerais</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #FF4500;"></div>
+            <div>Pará</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #3A5FCD;"></div>
+            <div>Paraíba</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #7A378B;"></div>
+            <div>Paraná</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #436EEE;"></div>
+            <div>Pernambuco</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #6959CD;"></div>
+            <div>Piauí</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #FFC125;"></div>
+            <div>Rio de Janeiro</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #836FFF;"></div>
+            <div>Rio Grande do Norte</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #9F79EE;"></div>
+            <div>Rio Grande do Sul</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #FF7F00;"></div>
+            <div>Rondônia</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: orange;"></div>
+            <div>Roraima</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #551A8B;"></div>
+            <div>Santa Catarina</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: yellow;"></div>
+            <div>São Paulo</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #1E90FF;"></div>
+            <div>Sergipe</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #FFA500;"></div>
+            <div>Tocantins</div>
+        </div>
+    </div>
+    <div id="map" style="width: 80%; height: 600px; margin: 0 auto;"></div>
+    <script>
+        var map = L.map('map').setView([-15.7785, -54.9292], 4);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var dadosDengue = [
+            { nome: 'Acre', lat: -9.0238, lon: -70.8120, casos: 100 },
+            { nome: 'Alagoas', lat: -9.5713, lon: -36.7819, casos: 200 },
+            { nome: 'Amapa', lat: 1.41, lon: -51.77, casos: 100 },
+            { nome: 'Amazonas', lat: -3.07, lon: -61.66, casos: 200 },
+            { nome: 'Bahia', lat: -12.96, lon: -38.51, casos: 100 },
+            { nome: 'Ceara', lat: -3.71, lon: -38.54, casos: 200 },
+            { nome: 'Distrito Federal', lat: -15.83, lon: -47.86, casos: 100 },
+            { nome: 'Espirito Santo', lat: -19.19, lon: -40.34, casos: 200 },
+            { nome: 'Goias', lat: -16.64, lon: -49.31, casos: 100 },
+            { nome: 'Maranhao', lat: -2.55, lon: -44.30, casos: 200 },
+            { nome: 'Mato Grosso do Sul', lat: -20.51, lon: -54.54, casos: 100 },
+            { nome: 'Mato Grosso', lat: -12.64, lon: -55.42, casos: 200 },
+            { nome: 'Minas Gerais', lat: -18.10, lon: -44.38, casos: 200 },
+            { nome: 'Para', lat: -5.53, lon: -52.29, casos: 100 },
+            { nome: 'Paraiba', lat: -7.06, lon: -35.55, casos: 200 },
+            { nome: 'Parana', lat: -24.89, lon: -51.55, casos: 100 },
+            { nome: 'Pernambuco', lat: -8.28, lon: -35.07, casos: 200 },
+            { nome: 'Piaui', lat: -8.28, lon: -43.68, casos: 100 },
+            { nome: 'Rio de Janeiro', lat: -22.84, lon: -43.15, casos: 200 },
+            { nome: 'Rio Grande do Norte', lat: -5.22, lon: -36.52, casos: 100 },
+            { nome: 'Rio Grande do Sul', lat: -30.01, lon: -51.22, casos: 200 },
+            { nome: 'Rondonia', lat: -11.22, lon: -62.80, casos: 100 },
+            { nome: 'Roraima', lat:  1.89, lon: -61.22, casos: 200 },
+            { nome: 'Santa Catarina', lat: -27.33, lon: -49.44, casos: 100 },
+            { nome: 'Sao Paulo', lat: -23.55, lon: -46.64, casos: 200 },
+            { nome: 'Sergipe', lat: -10.90, lon: -37.07, casos: 100 },
+            { nome: 'Tocantins', lat: -10.25, lon: -48.25, casos: 200 }
+        ];
+
+        dadosDengue.forEach(function(estado) {
+            var marcador = L.marker([estado.lat, estado.lon]).addTo(map);
+            marcador.bindPopup('<strong>' + estado.nome + '</strong><br>Casos: ' + estado.casos);
+        });
+    </script>
+</body>
+</html>
