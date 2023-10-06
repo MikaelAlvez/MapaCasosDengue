@@ -1,0 +1,550 @@
+[
+  {
+    "Soma de casos_dengue": 1087032,
+    "Nome_microregiao": "Metropolitana De Belo Horizonte"
+  },
+  {
+    "Soma de casos_dengue": 1057043,
+    "Nome_microregiao": "Metropolitana Do Rio De Janeiro"
+  },
+  {
+    "Soma de casos_dengue": 811462,
+    "Nome_microregiao": "Centro Goiano"
+  },
+  {
+    "Soma de casos_dengue": 508369,
+    "Nome_microregiao": "Metropolitana De São Paulo"
+  },
+  {
+    "Soma de casos_dengue": 397921,
+    "Nome_microregiao": "Campinas"
+  },
+  {
+    "Soma de casos_dengue": 348374,
+    "Nome_microregiao": "Ribeirão Preto"
+  },
+  {
+    "Soma de casos_dengue": 332038,
+    "Nome_microregiao": "São José Do Rio Preto"
+  },
+  {
+    "Soma de casos_dengue": 328754,
+    "Nome_microregiao": "Metropolitana De Fortaleza"
+  },
+  {
+    "Soma de casos_dengue": 291561,
+    "Nome_microregiao": "Central Espírito-Santense"
+  },
+  {
+    "Soma de casos_dengue": 259855,
+    "Nome_microregiao": "Triângulo Mineiro/Alto Paranaíba"
+  },
+  {
+    "Soma de casos_dengue": 251945,
+    "Nome_microregiao": "Metropolitana De Recife"
+  },
+  {
+    "Soma de casos_dengue": 241225,
+    "Nome_microregiao": "Centro Norte De Mato Grosso Do Sul"
+  },
+  {
+    "Soma de casos_dengue": 207684,
+    "Nome_microregiao": "Leste Potiguar"
+  },
+  {
+    "Soma de casos_dengue": 198502,
+    "Nome_microregiao": "Zona Da Mata"
+  },
+  {
+    "Soma de casos_dengue": 191372,
+    "Nome_microregiao": "Vale Do Rio Doce"
+  },
+  {
+    "Soma de casos_dengue": 178463,
+    "Nome_microregiao": "Sul Baiano"
+  },
+  {
+    "Soma de casos_dengue": 178131,
+    "Nome_microregiao": "Sul Goiano"
+  },
+  {
+    "Soma de casos_dengue": 165693,
+    "Nome_microregiao": "Centro Norte Baiano"
+  },
+  {
+    "Soma de casos_dengue": 161219,
+    "Nome_microregiao": "Vale Do Paraíba Paulista"
+  },
+  {
+    "Soma de casos_dengue": 146110,
+    "Nome_microregiao": "Araçatuba"
+  },
+  {
+    "Soma de casos_dengue": 142350,
+    "Nome_microregiao": "Centro Amazonense"
+  },
+  {
+    "Soma de casos_dengue": 141885,
+    "Nome_microregiao": "Norte Central Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 139802,
+    "Nome_microregiao": "Sul Fluminense"
+  },
+  {
+    "Soma de casos_dengue": 136986,
+    "Nome_microregiao": "Leste Alagoano"
+  },
+  {
+    "Soma de casos_dengue": 130197,
+    "Nome_microregiao": "Norte De Minas"
+  },
+  {
+    "Soma de casos_dengue": 127490,
+    "Nome_microregiao": "Agreste Pernambucano"
+  },
+  {
+    "Soma de casos_dengue": 125176,
+    "Nome_microregiao": "Distrito Federal"
+  },
+  {
+    "Soma de casos_dengue": 125051,
+    "Nome_microregiao": "Metropolitana De Salvador"
+  },
+  {
+    "Soma de casos_dengue": 122856,
+    "Nome_microregiao": "Norte Mato-Grossense"
+  },
+  {
+    "Soma de casos_dengue": 120700,
+    "Nome_microregiao": "Centro Sul Baiano"
+  },
+  {
+    "Soma de casos_dengue": 115020,
+    "Nome_microregiao": "Piracicaba"
+  },
+  {
+    "Soma de casos_dengue": 112617,
+    "Nome_microregiao": "Oeste De Minas"
+  },
+  {
+    "Soma de casos_dengue": 112441,
+    "Nome_microregiao": "Macro Metropolitana Paulista"
+  },
+  {
+    "Soma de casos_dengue": 109213,
+    "Nome_microregiao": "Leste Goiano"
+  },
+  {
+    "Soma de casos_dengue": 104209,
+    "Nome_microregiao": "Vale Do Acre"
+  },
+  {
+    "Soma de casos_dengue": 101062,
+    "Nome_microregiao": "Sudoeste De Mato Grosso Do Sul"
+  },
+  {
+    "Soma de casos_dengue": 100653,
+    "Nome_microregiao": "Bauru"
+  },
+  {
+    "Soma de casos_dengue": 98555,
+    "Nome_microregiao": "Araraquara"
+  },
+  {
+    "Soma de casos_dengue": 84050,
+    "Nome_microregiao": "Centro-Sul Mato-Grossense"
+  },
+  {
+    "Soma de casos_dengue": 81656,
+    "Nome_microregiao": "Sul Espírito-Santense"
+  },
+  {
+    "Soma de casos_dengue": 80985,
+    "Nome_microregiao": "Central Mineira"
+  },
+  {
+    "Soma de casos_dengue": 80840,
+    "Nome_microregiao": "Oeste Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 80421,
+    "Nome_microregiao": "Presidente Prudente"
+  },
+  {
+    "Soma de casos_dengue": 77381,
+    "Nome_microregiao": "Centro-Norte Piauiense"
+  },
+  {
+    "Soma de casos_dengue": 75415,
+    "Nome_microregiao": "Sertão Paraibano"
+  },
+  {
+    "Soma de casos_dengue": 72253,
+    "Nome_microregiao": "Agreste Alagoano"
+  },
+  {
+    "Soma de casos_dengue": 71572,
+    "Nome_microregiao": "Sul/Sudoeste De Minas"
+  },
+  {
+    "Soma de casos_dengue": 71514,
+    "Nome_microregiao": "Nordeste Baiano"
+  },
+  {
+    "Soma de casos_dengue": 71436,
+    "Nome_microregiao": "Leste Rondoniense"
+  },
+  {
+    "Soma de casos_dengue": 69495,
+    "Nome_microregiao": "Sudeste Paraense"
+  },
+  {
+    "Soma de casos_dengue": 69136,
+    "Nome_microregiao": "Baixadas"
+  },
+  {
+    "Soma de casos_dengue": 68153,
+    "Nome_microregiao": "Mata Paraibana"
+  },
+  {
+    "Soma de casos_dengue": 66173,
+    "Nome_microregiao": "Mata Pernambucana"
+  },
+  {
+    "Soma de casos_dengue": 66108,
+    "Nome_microregiao": "Norte Fluminense"
+  },
+  {
+    "Soma de casos_dengue": 65807,
+    "Nome_microregiao": "Oriental Do Tocantins"
+  },
+  {
+    "Soma de casos_dengue": 63554,
+    "Nome_microregiao": "Sertões Cearenses"
+  },
+  {
+    "Soma de casos_dengue": 62264,
+    "Nome_microregiao": "Noroeste Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 61195,
+    "Nome_microregiao": "Ocidental Do Tocantins"
+  },
+  {
+    "Soma de casos_dengue": 60046,
+    "Nome_microregiao": "Central Potiguar"
+  },
+  {
+    "Soma de casos_dengue": 59042,
+    "Nome_microregiao": "Oeste Potiguar"
+  },
+  {
+    "Soma de casos_dengue": 58377,
+    "Nome_microregiao": "Leste De Mato Grosso Do Sul"
+  },
+  {
+    "Soma de casos_dengue": 56299,
+    "Nome_microregiao": "Sertão Pernambucano"
+  },
+  {
+    "Soma de casos_dengue": 54717,
+    "Nome_microregiao": "Noroeste Cearense"
+  },
+  {
+    "Soma de casos_dengue": 53758,
+    "Nome_microregiao": "Sul Cearense"
+  },
+  {
+    "Soma de casos_dengue": 52839,
+    "Nome_microregiao": "Noroeste De Minas"
+  },
+  {
+    "Soma de casos_dengue": 52770,
+    "Nome_microregiao": "Marília"
+  },
+  {
+    "Soma de casos_dengue": 50672,
+    "Nome_microregiao": "Leste Sergipano"
+  },
+  {
+    "Soma de casos_dengue": 48806,
+    "Nome_microregiao": "Noroeste Fluminense"
+  },
+  {
+    "Soma de casos_dengue": 48623,
+    "Nome_microregiao": "Norte Maranhense"
+  },
+  {
+    "Soma de casos_dengue": 47645,
+    "Nome_microregiao": "Litoral Norte Espírito-Santense"
+  },
+  {
+    "Soma de casos_dengue": 46810,
+    "Nome_microregiao": "Metropolitana De Belém"
+  },
+  {
+    "Soma de casos_dengue": 43596,
+    "Nome_microregiao": "Noroeste Espírito-Santense"
+  },
+  {
+    "Soma de casos_dengue": 43495,
+    "Nome_microregiao": "Norte Cearense"
+  },
+  {
+    "Soma de casos_dengue": 43353,
+    "Nome_microregiao": "Assis"
+  },
+  {
+    "Soma de casos_dengue": 42999,
+    "Nome_microregiao": "Agreste Paraibano"
+  },
+  {
+    "Soma de casos_dengue": 42639,
+    "Nome_microregiao": "Vale Do Juruá"
+  },
+  {
+    "Soma de casos_dengue": 40294,
+    "Nome_microregiao": "Vale Do Mucuri"
+  },
+  {
+    "Soma de casos_dengue": 39756,
+    "Nome_microregiao": "Agreste Potiguar"
+  },
+  {
+    "Soma de casos_dengue": 39230,
+    "Nome_microregiao": "Vale São-Franciscano Da Bahia"
+  },
+  {
+    "Soma de casos_dengue": 38098,
+    "Nome_microregiao": "Jequitinhonha"
+  },
+  {
+    "Soma de casos_dengue": 35356,
+    "Nome_microregiao": "Extremo Oeste Baiano"
+  },
+  {
+    "Soma de casos_dengue": 33726,
+    "Nome_microregiao": "Sul Do Amapá"
+  },
+  {
+    "Soma de casos_dengue": 33399,
+    "Nome_microregiao": "Sudeste Mato-Grossense"
+  },
+  {
+    "Soma de casos_dengue": 32096,
+    "Nome_microregiao": "Sudoeste Mato-Grossense"
+  },
+  {
+    "Soma de casos_dengue": 32081,
+    "Nome_microregiao": "Litoral Sul Paulista"
+  },
+  {
+    "Soma de casos_dengue": 31962,
+    "Nome_microregiao": "Norte Pioneiro Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 31757,
+    "Nome_microregiao": "Nordeste Mato-Grossense"
+  },
+  {
+    "Soma de casos_dengue": 31530,
+    "Nome_microregiao": "Centro Fluminense"
+  },
+  {
+    "Soma de casos_dengue": 31018,
+    "Nome_microregiao": "Norte De Roraima"
+  },
+  {
+    "Soma de casos_dengue": 30395,
+    "Nome_microregiao": "Jaguaribe"
+  },
+  {
+    "Soma de casos_dengue": 28172,
+    "Nome_microregiao": "Madeira-Guaporé"
+  },
+  {
+    "Soma de casos_dengue": 27606,
+    "Nome_microregiao": "Borborema"
+  },
+  {
+    "Soma de casos_dengue": 27220,
+    "Nome_microregiao": "Centro Maranhense"
+  },
+  {
+    "Soma de casos_dengue": 26510,
+    "Nome_microregiao": "Nordeste Paraense"
+  },
+  {
+    "Soma de casos_dengue": 25947,
+    "Nome_microregiao": "Centro-Sul Cearense"
+  },
+  {
+    "Soma de casos_dengue": 25397,
+    "Nome_microregiao": "Centro Ocidental Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 25002,
+    "Nome_microregiao": "Norte Goiano"
+  },
+  {
+    "Soma de casos_dengue": 24285,
+    "Nome_microregiao": "Baixo Amazonas"
+  },
+  {
+    "Soma de casos_dengue": 23092,
+    "Nome_microregiao": "Sudoeste Paraense"
+  },
+  {
+    "Soma de casos_dengue": 23028,
+    "Nome_microregiao": "Sertão Alagoano"
+  },
+  {
+    "Soma de casos_dengue": 22997,
+    "Nome_microregiao": "Pantanais Sul Mato-Grossense"
+  },
+  {
+    "Soma de casos_dengue": 22325,
+    "Nome_microregiao": "Leste Maranhense"
+  },
+  {
+    "Soma de casos_dengue": 22140,
+    "Nome_microregiao": "Campo Das Vertentes"
+  },
+  {
+    "Soma de casos_dengue": 22019,
+    "Nome_microregiao": "Oeste Maranhense"
+  },
+  {
+    "Soma de casos_dengue": 20871,
+    "Nome_microregiao": "Noroeste Goiano"
+  },
+  {
+    "Soma de casos_dengue": 19739,
+    "Nome_microregiao": "Metropolitana De Curitiba"
+  },
+  {
+    "Soma de casos_dengue": 18736,
+    "Nome_microregiao": "Sudeste Piauiense"
+  },
+  {
+    "Soma de casos_dengue": 17686,
+    "Nome_microregiao": "São Francisco Pernambucano"
+  },
+  {
+    "Soma de casos_dengue": 15240,
+    "Nome_microregiao": "Norte Piauiense"
+  },
+  {
+    "Soma de casos_dengue": 14405,
+    "Nome_microregiao": "Agreste Sergipano"
+  },
+  {
+    "Soma de casos_dengue": 13455,
+    "Nome_microregiao": "Sudoeste Piauiense"
+  },
+  {
+    "Soma de casos_dengue": 9846,
+    "Nome_microregiao": "Sul Maranhense"
+  },
+  {
+    "Soma de casos_dengue": 8638,
+    "Nome_microregiao": "Noroeste Rio-Grandense"
+  },
+  {
+    "Soma de casos_dengue": 8109,
+    "Nome_microregiao": "Sul De Roraima"
+  },
+  {
+    "Soma de casos_dengue": 6962,
+    "Nome_microregiao": "Sul Amazonense"
+  },
+  {
+    "Soma de casos_dengue": 6888,
+    "Nome_microregiao": "Sudoeste Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 6723,
+    "Nome_microregiao": "Vale Do Itajaí"
+  },
+  {
+    "Soma de casos_dengue": 6450,
+    "Nome_microregiao": "Norte Do Amapá"
+  },
+  {
+    "Soma de casos_dengue": 6265,
+    "Nome_microregiao": "Sudoeste Amazonense"
+  },
+  {
+    "Soma de casos_dengue": 6091,
+    "Nome_microregiao": "Itapetininga"
+  },
+  {
+    "Soma de casos_dengue": 6017,
+    "Nome_microregiao": "Sertão Sergipano"
+  },
+  {
+    "Soma de casos_dengue": 5064,
+    "Nome_microregiao": "Norte Amazonense"
+  },
+  {
+    "Soma de casos_dengue": 4880,
+    "Nome_microregiao": "Oeste Catarinense"
+  },
+  {
+    "Soma de casos_dengue": 3680,
+    "Nome_microregiao": "Marajó"
+  },
+  {
+    "Soma de casos_dengue": 3227,
+    "Nome_microregiao": "Metropolitana De Porto Alegre"
+  },
+  {
+    "Soma de casos_dengue": 1105,
+    "Nome_microregiao": "Grande Florianópolis"
+  },
+  {
+    "Soma de casos_dengue": 1041,
+    "Nome_microregiao": "Centro-Sul Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 565,
+    "Nome_microregiao": "Norte Catarinense"
+  },
+  {
+    "Soma de casos_dengue": 470,
+    "Nome_microregiao": "Centro Oriental Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 395,
+    "Nome_microregiao": "Sul Catarinense"
+  },
+  {
+    "Soma de casos_dengue": 340,
+    "Nome_microregiao": "Nordeste Rio-Grandense"
+  },
+  {
+    "Soma de casos_dengue": 319,
+    "Nome_microregiao": "Sudeste Paranaense"
+  },
+  {
+    "Soma de casos_dengue": 241,
+    "Nome_microregiao": "Centro Oriental Rio-Grandense"
+  },
+  {
+    "Soma de casos_dengue": 181,
+    "Nome_microregiao": "Sudeste Rio-Grandense"
+  },
+  {
+    "Soma de casos_dengue": 116,
+    "Nome_microregiao": "Centro Ocidental Rio-Grandense"
+  },
+  {
+    "Soma de casos_dengue": 108,
+    "Nome_microregiao": "Sudoeste Rio-Grandense"
+  },
+  {
+    "Soma de casos_dengue": 92,
+    "Nome_microregiao": "Serrana"
+  }
+]

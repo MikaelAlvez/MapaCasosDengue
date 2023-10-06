@@ -1,0 +1,2218 @@
+[
+  {
+    "Soma de casos_dengue": 1019958,
+    "Nome": "RIO DE JANEIRO"
+  },
+  {
+    "Soma de casos_dengue": 954790,
+    "Nome": "BELO HORIZONTE"
+  },
+  {
+    "Soma de casos_dengue": 693734,
+    "Nome": "GOIÂNIA"
+  },
+  {
+    "Soma de casos_dengue": 323814,
+    "Nome": "FORTALEZA"
+  },
+  {
+    "Soma de casos_dengue": 301816,
+    "Nome": "CAMPINAS"
+  },
+  {
+    "Soma de casos_dengue": 261892,
+    "Nome": "VITÓRIA"
+  },
+  {
+    "Soma de casos_dengue": 217724,
+    "Nome": "CAMPO GRANDE"
+  },
+  {
+    "Soma de casos_dengue": 216744,
+    "Nome": "RECIFE"
+  },
+  {
+    "Soma de casos_dengue": 212260,
+    "Nome": "SÃO JOSÉ DO RIO PRETO"
+  },
+  {
+    "Soma de casos_dengue": 193398,
+    "Nome": "RIBEIRÃO PRETO"
+  },
+  {
+    "Soma de casos_dengue": 187443,
+    "Nome": "SÃO PAULO"
+  },
+  {
+    "Soma de casos_dengue": 172852,
+    "Nome": "NATAL"
+  },
+  {
+    "Soma de casos_dengue": 168318,
+    "Nome": "SANTOS"
+  },
+  {
+    "Soma de casos_dengue": 137415,
+    "Nome": "ILHÉUS-ITABUNA"
+  },
+  {
+    "Soma de casos_dengue": 127189,
+    "Nome": "MANAUS"
+  },
+  {
+    "Soma de casos_dengue": 125176,
+    "Nome": "BRASÍLIA"
+  },
+  {
+    "Soma de casos_dengue": 110587,
+    "Nome": "UBERLÂNDIA"
+  },
+  {
+    "Soma de casos_dengue": 106496,
+    "Nome": "SALVADOR"
+  },
+  {
+    "Soma de casos_dengue": 104117,
+    "Nome": "MACEIÓ"
+  },
+  {
+    "Soma de casos_dengue": 100246,
+    "Nome": "IPATINGA"
+  },
+  {
+    "Soma de casos_dengue": 98458,
+    "Nome": "ENTORNO DE BRASÍLIA"
+  },
+  {
+    "Soma de casos_dengue": 94055,
+    "Nome": "RIO BRANCO"
+  },
+  {
+    "Soma de casos_dengue": 88800,
+    "Nome": "SUDOESTE DE GOIÁS"
+  },
+  {
+    "Soma de casos_dengue": 87254,
+    "Nome": "SOROCABA"
+  },
+  {
+    "Soma de casos_dengue": 78561,
+    "Nome": "JUIZ DE FORA"
+  },
+  {
+    "Soma de casos_dengue": 77852,
+    "Nome": "SETE LAGOAS"
+  },
+  {
+    "Soma de casos_dengue": 76600,
+    "Nome": "ARARAQUARA"
+  },
+  {
+    "Soma de casos_dengue": 73918,
+    "Nome": "VALE DO PARAÍBA FLUMINENSE"
+  },
+  {
+    "Soma de casos_dengue": 70609,
+    "Nome": "CUIABÁ"
+  },
+  {
+    "Soma de casos_dengue": 70190,
+    "Nome": "DIVINÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 68877,
+    "Nome": "ANÁPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 68791,
+    "Nome": "SÃO JOSÉ DOS CAMPOS"
+  },
+  {
+    "Soma de casos_dengue": 66256,
+    "Nome": "CACHOEIRO DE ITAPEMIRIM"
+  },
+  {
+    "Soma de casos_dengue": 65365,
+    "Nome": "BAURU"
+  },
+  {
+    "Soma de casos_dengue": 62650,
+    "Nome": "TERESINA"
+  },
+  {
+    "Soma de casos_dengue": 61066,
+    "Nome": "DOURADOS"
+  },
+  {
+    "Soma de casos_dengue": 58811,
+    "Nome": "JOÃO PESSOA"
+  },
+  {
+    "Soma de casos_dengue": 57572,
+    "Nome": "ARAPIRACA"
+  },
+  {
+    "Soma de casos_dengue": 56474,
+    "Nome": "CARAGUATATUBA"
+  },
+  {
+    "Soma de casos_dengue": 55378,
+    "Nome": "VALE DO IPOJUCA"
+  },
+  {
+    "Soma de casos_dengue": 54371,
+    "Nome": "LAGOS"
+  },
+  {
+    "Soma de casos_dengue": 54317,
+    "Nome": "PORTO NACIONAL"
+  },
+  {
+    "Soma de casos_dengue": 53798,
+    "Nome": "BIRIGUI"
+  },
+  {
+    "Soma de casos_dengue": 53763,
+    "Nome": "IRECÊ"
+  },
+  {
+    "Soma de casos_dengue": 53746,
+    "Nome": "FEIRA DE SANTANA"
+  },
+  {
+    "Soma de casos_dengue": 53732,
+    "Nome": "MONTES CLAROS"
+  },
+  {
+    "Soma de casos_dengue": 53625,
+    "Nome": "PRESIDENTE PRUDENTE"
+  },
+  {
+    "Soma de casos_dengue": 53508,
+    "Nome": "OSASCO"
+  },
+  {
+    "Soma de casos_dengue": 52351,
+    "Nome": "GUARULHOS"
+  },
+  {
+    "Soma de casos_dengue": 51887,
+    "Nome": "FOZ DO IGUAÇU"
+  },
+  {
+    "Soma de casos_dengue": 51185,
+    "Nome": "LIMEIRA"
+  },
+  {
+    "Soma de casos_dengue": 50006,
+    "Nome": "JABOTICABAL"
+  },
+  {
+    "Soma de casos_dengue": 49469,
+    "Nome": "CAMPOS DOS GOYTACAZES"
+  },
+  {
+    "Soma de casos_dengue": 49326,
+    "Nome": "LONDRINA"
+  },
+  {
+    "Soma de casos_dengue": 49198,
+    "Nome": "BAÍA DA ILHA GRANDE"
+  },
+  {
+    "Soma de casos_dengue": 47073,
+    "Nome": "ARAÇATUBA"
+  },
+  {
+    "Soma de casos_dengue": 45239,
+    "Nome": "ANDRADINA"
+  },
+  {
+    "Soma de casos_dengue": 44897,
+    "Nome": "GOVERNADOR VALADARES"
+  },
+  {
+    "Soma de casos_dengue": 43189,
+    "Nome": "MARINGÁ"
+  },
+  {
+    "Soma de casos_dengue": 42031,
+    "Nome": "BELÉM"
+  },
+  {
+    "Soma de casos_dengue": 41830,
+    "Nome": "UBERABA"
+  },
+  {
+    "Soma de casos_dengue": 41093,
+    "Nome": "MOJI MIRIM"
+  },
+  {
+    "Soma de casos_dengue": 40726,
+    "Nome": "UBÁ"
+  },
+  {
+    "Soma de casos_dengue": 40486,
+    "Nome": "MEIA PONTE"
+  },
+  {
+    "Soma de casos_dengue": 38917,
+    "Nome": "CRUZEIRO DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 38452,
+    "Nome": "MATA SETENTRIONAL PERNAMBUCANA"
+  },
+  {
+    "Soma de casos_dengue": 37943,
+    "Nome": "SÃO JOAQUIM DA BARRA"
+  },
+  {
+    "Soma de casos_dengue": 37414,
+    "Nome": "ITAPERUNA"
+  },
+  {
+    "Soma de casos_dengue": 37349,
+    "Nome": "PARANAVAÍ"
+  },
+  {
+    "Soma de casos_dengue": 37053,
+    "Nome": "JEQUIÉ"
+  },
+  {
+    "Soma de casos_dengue": 36452,
+    "Nome": "PORTO SEGURO"
+  },
+  {
+    "Soma de casos_dengue": 36337,
+    "Nome": "SINOP"
+  },
+  {
+    "Soma de casos_dengue": 34742,
+    "Nome": "AGLOMERAÇÃO URBANA DE SÃO LUÍS"
+  },
+  {
+    "Soma de casos_dengue": 34626,
+    "Nome": "MARÍLIA"
+  },
+  {
+    "Soma de casos_dengue": 34076,
+    "Nome": "GUARATINGUETÁ"
+  },
+  {
+    "Soma de casos_dengue": 33648,
+    "Nome": "SERRINHA"
+  },
+  {
+    "Soma de casos_dengue": 33477,
+    "Nome": "ARACAJU"
+  },
+  {
+    "Soma de casos_dengue": 32694,
+    "Nome": "CURVELO"
+  },
+  {
+    "Soma de casos_dengue": 32650,
+    "Nome": "PIRACICABA"
+  },
+  {
+    "Soma de casos_dengue": 32564,
+    "Nome": "CERES"
+  },
+  {
+    "Soma de casos_dengue": 32231,
+    "Nome": "BOM DESPACHO"
+  },
+  {
+    "Soma de casos_dengue": 32045,
+    "Nome": "MACAPÁ"
+  },
+  {
+    "Soma de casos_dengue": 31531,
+    "Nome": "CATANDUVA"
+  },
+  {
+    "Soma de casos_dengue": 31185,
+    "Nome": "RIO CLARO"
+  },
+  {
+    "Soma de casos_dengue": 31087,
+    "Nome": "TEÓFILO OTONI"
+  },
+  {
+    "Soma de casos_dengue": 30753,
+    "Nome": "ASSIS"
+  },
+  {
+    "Soma de casos_dengue": 30392,
+    "Nome": "TRÊS LAGOAS"
+  },
+  {
+    "Soma de casos_dengue": 29982,
+    "Nome": "JACOBINA"
+  },
+  {
+    "Soma de casos_dengue": 29344,
+    "Nome": "BOA VISTA"
+  },
+  {
+    "Soma de casos_dengue": 29071,
+    "Nome": "PARACATU"
+  },
+  {
+    "Soma de casos_dengue": 28997,
+    "Nome": "CARIRI"
+  },
+  {
+    "Soma de casos_dengue": 27465,
+    "Nome": "JALES"
+  },
+  {
+    "Soma de casos_dengue": 27150,
+    "Nome": "PATOS DE MINAS"
+  },
+  {
+    "Soma de casos_dengue": 26881,
+    "Nome": "FRUTAL"
+  },
+  {
+    "Soma de casos_dengue": 26782,
+    "Nome": "SÃO JOÃO DA BOA VISTA"
+  },
+  {
+    "Soma de casos_dengue": 25993,
+    "Nome": "IGUATEMI"
+  },
+  {
+    "Soma de casos_dengue": 25931,
+    "Nome": "CATAGUASES"
+  },
+  {
+    "Soma de casos_dengue": 25385,
+    "Nome": "SERIDÓ ORIENTAL"
+  },
+  {
+    "Soma de casos_dengue": 24318,
+    "Nome": "SUAPE"
+  },
+  {
+    "Soma de casos_dengue": 23781,
+    "Nome": "ITABIRA"
+  },
+  {
+    "Soma de casos_dengue": 23768,
+    "Nome": "UNAÍ"
+  },
+  {
+    "Soma de casos_dengue": 23595,
+    "Nome": "SERTÃO DE CRATÉUS"
+  },
+  {
+    "Soma de casos_dengue": 23501,
+    "Nome": "ALTO TAQUARI"
+  },
+  {
+    "Soma de casos_dengue": 23472,
+    "Nome": "ITUIUTABA"
+  },
+  {
+    "Soma de casos_dengue": 23336,
+    "Nome": "MACAÍBA"
+  },
+  {
+    "Soma de casos_dengue": 23325,
+    "Nome": "FORMIGA"
+  },
+  {
+    "Soma de casos_dengue": 23285,
+    "Nome": "GUARAPARI"
+  },
+  {
+    "Soma de casos_dengue": 23123,
+    "Nome": "PAJEÚ"
+  },
+  {
+    "Soma de casos_dengue": 22948,
+    "Nome": "BARRETOS"
+  },
+  {
+    "Soma de casos_dengue": 22870,
+    "Nome": "VOTUPORANGA"
+  },
+  {
+    "Soma de casos_dengue": 22074,
+    "Nome": "LINHARES"
+  },
+  {
+    "Soma de casos_dengue": 21955,
+    "Nome": "SÃO CARLOS"
+  },
+  {
+    "Soma de casos_dengue": 21498,
+    "Nome": "VITÓRIA DA CONQUISTA"
+  },
+  {
+    "Soma de casos_dengue": 21167,
+    "Nome": "PORTO VELHO"
+  },
+  {
+    "Soma de casos_dengue": 21043,
+    "Nome": "FRANCA"
+  },
+  {
+    "Soma de casos_dengue": 20952,
+    "Nome": "SOBRAL"
+  },
+  {
+    "Soma de casos_dengue": 20828,
+    "Nome": "MURIAÉ"
+  },
+  {
+    "Soma de casos_dengue": 20814,
+    "Nome": "COLATINA"
+  },
+  {
+    "Soma de casos_dengue": 20577,
+    "Nome": "PORANGATU"
+  },
+  {
+    "Soma de casos_dengue": 20476,
+    "Nome": "PAU DOS FERROS"
+  },
+  {
+    "Soma de casos_dengue": 20313,
+    "Nome": "ASTORGA"
+  },
+  {
+    "Soma de casos_dengue": 20194,
+    "Nome": "JANAÚBA"
+  },
+  {
+    "Soma de casos_dengue": 20076,
+    "Nome": "BAIXO JAGUARIBE"
+  },
+  {
+    "Soma de casos_dengue": 19974,
+    "Nome": "IGUATU"
+  },
+  {
+    "Soma de casos_dengue": 19850,
+    "Nome": "JUAZEIRO"
+  },
+  {
+    "Soma de casos_dengue": 19670,
+    "Nome": "AIMORÉS"
+  },
+  {
+    "Soma de casos_dengue": 19567,
+    "Nome": "CACOAL"
+  },
+  {
+    "Soma de casos_dengue": 19455,
+    "Nome": "GARANHUNS"
+  },
+  {
+    "Soma de casos_dengue": 19215,
+    "Nome": "VARGINHA"
+  },
+  {
+    "Soma de casos_dengue": 19141,
+    "Nome": "FERNANDÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 19096,
+    "Nome": "JANUÁRIA"
+  },
+  {
+    "Soma de casos_dengue": 19043,
+    "Nome": "ALTO TELES PIRES"
+  },
+  {
+    "Soma de casos_dengue": 19007,
+    "Nome": "PIRASSUNUNGA"
+  },
+  {
+    "Soma de casos_dengue": 18847,
+    "Nome": "PIRAPORA"
+  },
+  {
+    "Soma de casos_dengue": 18769,
+    "Nome": "GUANAMBI"
+  },
+  {
+    "Soma de casos_dengue": 18698,
+    "Nome": "ARAGUAÍNA"
+  },
+  {
+    "Soma de casos_dengue": 18661,
+    "Nome": "PASSOS"
+  },
+  {
+    "Soma de casos_dengue": 18579,
+    "Nome": "ALTO CAPIBARIBE"
+  },
+  {
+    "Soma de casos_dengue": 18579,
+    "Nome": "JI-PARANÁ"
+  },
+  {
+    "Soma de casos_dengue": 18551,
+    "Nome": "ITAPECERICA DA SERRA"
+  },
+  {
+    "Soma de casos_dengue": 18539,
+    "Nome": "TOLEDO"
+  },
+  {
+    "Soma de casos_dengue": 18443,
+    "Nome": "SANTARÉM"
+  },
+  {
+    "Soma de casos_dengue": 18413,
+    "Nome": "ITABERABA"
+  },
+  {
+    "Soma de casos_dengue": 18411,
+    "Nome": "FRANCO DA ROCHA"
+  },
+  {
+    "Soma de casos_dengue": 18389,
+    "Nome": "MÉDIO CAPIBARIBE"
+  },
+  {
+    "Soma de casos_dengue": 18207,
+    "Nome": "SERTÃO DE INHAMUNS"
+  },
+  {
+    "Soma de casos_dengue": 18144,
+    "Nome": "TUPÃ"
+  },
+  {
+    "Soma de casos_dengue": 18131,
+    "Nome": "BARREIRAS"
+  },
+  {
+    "Soma de casos_dengue": 18041,
+    "Nome": "CAJAZEIRAS"
+  },
+  {
+    "Soma de casos_dengue": 17974,
+    "Nome": "PORECATU"
+  },
+  {
+    "Soma de casos_dengue": 17896,
+    "Nome": "ADAMANTINA"
+  },
+  {
+    "Soma de casos_dengue": 17342,
+    "Nome": "ALTO MEARIM E GRAJAÚ"
+  },
+  {
+    "Soma de casos_dengue": 17115,
+    "Nome": "ARIPUANÃ"
+  },
+  {
+    "Soma de casos_dengue": 16739,
+    "Nome": "LINS"
+  },
+  {
+    "Soma de casos_dengue": 16693,
+    "Nome": "PARANAGUÁ"
+  },
+  {
+    "Soma de casos_dengue": 16686,
+    "Nome": "BARRA DO PIRAÍ"
+  },
+  {
+    "Soma de casos_dengue": 16664,
+    "Nome": "JUNDIAÍ"
+  },
+  {
+    "Soma de casos_dengue": 16639,
+    "Nome": "MACAÉ"
+  },
+  {
+    "Soma de casos_dengue": 16631,
+    "Nome": "ITANHAÉM"
+  },
+  {
+    "Soma de casos_dengue": 16600,
+    "Nome": "CAMPO MOURÃO"
+  },
+  {
+    "Soma de casos_dengue": 16430,
+    "Nome": "UMUARAMA"
+  },
+  {
+    "Soma de casos_dengue": 16324,
+    "Nome": "COLÍDER"
+  },
+  {
+    "Soma de casos_dengue": 16296,
+    "Nome": "VILHENA"
+  },
+  {
+    "Soma de casos_dengue": 16060,
+    "Nome": "TRÊS MARIAS"
+  },
+  {
+    "Soma de casos_dengue": 16046,
+    "Nome": "CARIRI OCIDENTAL"
+  },
+  {
+    "Soma de casos_dengue": 16008,
+    "Nome": "BORBOREMA POTIGUAR"
+  },
+  {
+    "Soma de casos_dengue": 16008,
+    "Nome": "PARÁ DE MINAS"
+  },
+  {
+    "Soma de casos_dengue": 15911,
+    "Nome": "SALGUEIRO"
+  },
+  {
+    "Soma de casos_dengue": 15894,
+    "Nome": "AGRESTE POTIGUAR"
+  },
+  {
+    "Soma de casos_dengue": 15888,
+    "Nome": "CASCAVEL"
+  },
+  {
+    "Soma de casos_dengue": 15530,
+    "Nome": "MOSSORÓ"
+  },
+  {
+    "Soma de casos_dengue": 15509,
+    "Nome": "ARAXÁ"
+  },
+  {
+    "Soma de casos_dengue": 15450,
+    "Nome": "REGISTRO"
+  },
+  {
+    "Soma de casos_dengue": 15401,
+    "Nome": "MATA MERIDIONAL PERNAMBUCANA"
+  },
+  {
+    "Soma de casos_dengue": 15373,
+    "Nome": "EUCLIDES DA CUNHA"
+  },
+  {
+    "Soma de casos_dengue": 15339,
+    "Nome": "CARATINGA"
+  },
+  {
+    "Soma de casos_dengue": 15194,
+    "Nome": "SÃO MATEUS"
+  },
+  {
+    "Soma de casos_dengue": 15120,
+    "Nome": "ITUVERAVA"
+  },
+  {
+    "Soma de casos_dengue": 14912,
+    "Nome": "RONDONÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 14799,
+    "Nome": "JAÚ"
+  },
+  {
+    "Soma de casos_dengue": 14765,
+    "Nome": "BACIA DE SÃO JOÃO"
+  },
+  {
+    "Soma de casos_dengue": 14465,
+    "Nome": "RIO FORMOSO"
+  },
+  {
+    "Soma de casos_dengue": 14426,
+    "Nome": "PATROCÍNIO"
+  },
+  {
+    "Soma de casos_dengue": 14029,
+    "Nome": "PARAUAPEBAS"
+  },
+  {
+    "Soma de casos_dengue": 14003,
+    "Nome": "BODOQUENA"
+  },
+  {
+    "Soma de casos_dengue": 13913,
+    "Nome": "PALMEIRA DOS ÍNDIOS"
+  },
+  {
+    "Soma de casos_dengue": 13884,
+    "Nome": "MÉDIO ARAGUAIA"
+  },
+  {
+    "Soma de casos_dengue": 13872,
+    "Nome": "VALE DO RIO DOS BOIS"
+  },
+  {
+    "Soma de casos_dengue": 13826,
+    "Nome": "BAIXO PANTANAL"
+  },
+  {
+    "Soma de casos_dengue": 13635,
+    "Nome": "CATALÃO"
+  },
+  {
+    "Soma de casos_dengue": 13590,
+    "Nome": "SERTÃO DE QUIXERAMOBIM"
+  },
+  {
+    "Soma de casos_dengue": 13580,
+    "Nome": "QUIRINÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 13568,
+    "Nome": "PONTE NOVA"
+  },
+  {
+    "Soma de casos_dengue": 13566,
+    "Nome": "SANTO ANTÔNIO DE JESUS"
+  },
+  {
+    "Soma de casos_dengue": 13426,
+    "Nome": "PETROLINA"
+  },
+  {
+    "Soma de casos_dengue": 13415,
+    "Nome": "TUCURUÍ"
+  },
+  {
+    "Soma de casos_dengue": 13369,
+    "Nome": "SOUSA"
+  },
+  {
+    "Soma de casos_dengue": 13350,
+    "Nome": "JAURU"
+  },
+  {
+    "Soma de casos_dengue": 13198,
+    "Nome": "SERIDÓ OCIDENTAL"
+  },
+  {
+    "Soma de casos_dengue": 13081,
+    "Nome": "CATOLÉ DO ROCHA"
+  },
+  {
+    "Soma de casos_dengue": 13026,
+    "Nome": "ALTAMIRA"
+  },
+  {
+    "Soma de casos_dengue": 12998,
+    "Nome": "NOVA VENÉCIA"
+  },
+  {
+    "Soma de casos_dengue": 12715,
+    "Nome": "GURUPI"
+  },
+  {
+    "Soma de casos_dengue": 12600,
+    "Nome": "OURINHOS"
+  },
+  {
+    "Soma de casos_dengue": 12361,
+    "Nome": "RIBEIRA DO POMBAL"
+  },
+  {
+    "Soma de casos_dengue": 12320,
+    "Nome": "VITÓRIA DE SANTO ANTÃO"
+  },
+  {
+    "Soma de casos_dengue": 12253,
+    "Nome": "LAVRAS"
+  },
+  {
+    "Soma de casos_dengue": 12106,
+    "Nome": "ALTA FLORESTA"
+  },
+  {
+    "Soma de casos_dengue": 12104,
+    "Nome": "CAMPINA GRANDE"
+  },
+  {
+    "Soma de casos_dengue": 12070,
+    "Nome": "MANHUAÇU"
+  },
+  {
+    "Soma de casos_dengue": 11904,
+    "Nome": "SANTA MARIA DA VITÓRIA"
+  },
+  {
+    "Soma de casos_dengue": 11849,
+    "Nome": "SERRA DO TEIXEIRA"
+  },
+  {
+    "Soma de casos_dengue": 11786,
+    "Nome": "CANTAGALO-CORDEIRO"
+  },
+  {
+    "Soma de casos_dengue": 11446,
+    "Nome": "BREJO SANTO"
+  },
+  {
+    "Soma de casos_dengue": 11437,
+    "Nome": "CORNÉLIO PROCÓPIO"
+  },
+  {
+    "Soma de casos_dengue": 11406,
+    "Nome": "VASSOURAS"
+  },
+  {
+    "Soma de casos_dengue": 11392,
+    "Nome": "SANTO ANTÔNIO DE PÁDUA"
+  },
+  {
+    "Soma de casos_dengue": 11168,
+    "Nome": "TANGARÁ DA SERRA"
+  },
+  {
+    "Soma de casos_dengue": 11144,
+    "Nome": "BOCAIÚVA"
+  },
+  {
+    "Soma de casos_dengue": 11075,
+    "Nome": "SÃO SEBASTIÃO DO PARAÍSO"
+  },
+  {
+    "Soma de casos_dengue": 10966,
+    "Nome": "NOVA FRIBURGO"
+  },
+  {
+    "Soma de casos_dengue": 10945,
+    "Nome": "ITAGUAÍ"
+  },
+  {
+    "Soma de casos_dengue": 10927,
+    "Nome": "PARECIS"
+  },
+  {
+    "Soma de casos_dengue": 10922,
+    "Nome": "ITAPETINGA"
+  },
+  {
+    "Soma de casos_dengue": 10771,
+    "Nome": "PRIMAVERA DO LESTE"
+  },
+  {
+    "Soma de casos_dengue": 10755,
+    "Nome": "VÃO DO PARANÃ"
+  },
+  {
+    "Soma de casos_dengue": 10749,
+    "Nome": "LITORAL DE CAMOCIM E ACARAÚ"
+  },
+  {
+    "Soma de casos_dengue": 10747,
+    "Nome": "NOVA ANDRADINA"
+  },
+  {
+    "Soma de casos_dengue": 10723,
+    "Nome": "ALEGRE"
+  },
+  {
+    "Soma de casos_dengue": 10470,
+    "Nome": "SEABRA"
+  },
+  {
+    "Soma de casos_dengue": 10377,
+    "Nome": "MONTANHA"
+  },
+  {
+    "Soma de casos_dengue": 10311,
+    "Nome": "BICO DO PAPAGAIO"
+  },
+  {
+    "Soma de casos_dengue": 10269,
+    "Nome": "ALFENAS"
+  },
+  {
+    "Soma de casos_dengue": 10262,
+    "Nome": "ARAÇUAÍ"
+  },
+  {
+    "Soma de casos_dengue": 10137,
+    "Nome": "IPU"
+  },
+  {
+    "Soma de casos_dengue": 10066,
+    "Nome": "ITAITUBA"
+  },
+  {
+    "Soma de casos_dengue": 10027,
+    "Nome": "MARABÁ"
+  },
+  {
+    "Soma de casos_dengue": 9980,
+    "Nome": "ASSAÍ"
+  },
+  {
+    "Soma de casos_dengue": 9936,
+    "Nome": "JACAREZINHO"
+  },
+  {
+    "Soma de casos_dengue": 9789,
+    "Nome": "SENHOR DO BONFIM"
+  },
+  {
+    "Soma de casos_dengue": 9787,
+    "Nome": "MOGI DAS CRUZES"
+  },
+  {
+    "Soma de casos_dengue": 9784,
+    "Nome": "BARRA DE SÃO FRANCISCO"
+  },
+  {
+    "Soma de casos_dengue": 9769,
+    "Nome": "MACACU-CACERIBU"
+  },
+  {
+    "Soma de casos_dengue": 9745,
+    "Nome": "ITAMARACÁ"
+  },
+  {
+    "Soma de casos_dengue": 9707,
+    "Nome": "LITORAL SUL"
+  },
+  {
+    "Soma de casos_dengue": 9666,
+    "Nome": "PARANAÍBA"
+  },
+  {
+    "Soma de casos_dengue": 9579,
+    "Nome": "REDENÇÃO"
+  },
+  {
+    "Soma de casos_dengue": 9563,
+    "Nome": "IMPERATRIZ"
+  },
+  {
+    "Soma de casos_dengue": 9526,
+    "Nome": "BOQUIRA"
+  },
+  {
+    "Soma de casos_dengue": 9517,
+    "Nome": "ANICUNS"
+  },
+  {
+    "Soma de casos_dengue": 9436,
+    "Nome": "PINDARÉ"
+  },
+  {
+    "Soma de casos_dengue": 9434,
+    "Nome": "NORTE ARAGUAIA"
+  },
+  {
+    "Soma de casos_dengue": 9413,
+    "Nome": "SERTÃO DO MOXOTÓ"
+  },
+  {
+    "Soma de casos_dengue": 9395,
+    "Nome": "CAPELINHA"
+  },
+  {
+    "Soma de casos_dengue": 9330,
+    "Nome": "NHANDEARA"
+  },
+  {
+    "Soma de casos_dengue": 9223,
+    "Nome": "AMPARO"
+  },
+  {
+    "Soma de casos_dengue": 9214,
+    "Nome": "CANINDÉ"
+  },
+  {
+    "Soma de casos_dengue": 9207,
+    "Nome": "NANUQUE"
+  },
+  {
+    "Soma de casos_dengue": 9171,
+    "Nome": "AQUIDAUANA"
+  },
+  {
+    "Soma de casos_dengue": 9071,
+    "Nome": "MATA ALAGOANA"
+  },
+  {
+    "Soma de casos_dengue": 8927,
+    "Nome": "PARAGOMINAS"
+  },
+  {
+    "Soma de casos_dengue": 8900,
+    "Nome": "DRACENA"
+  },
+  {
+    "Soma de casos_dengue": 8891,
+    "Nome": "ALTO PANTANAL"
+  },
+  {
+    "Soma de casos_dengue": 8860,
+    "Nome": "PENEDO"
+  },
+  {
+    "Soma de casos_dengue": 8797,
+    "Nome": "GOIOERÊ"
+  },
+  {
+    "Soma de casos_dengue": 8756,
+    "Nome": "CAMPO BELO"
+  },
+  {
+    "Soma de casos_dengue": 8488,
+    "Nome": "DIANÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 8485,
+    "Nome": "CIANORTE"
+  },
+  {
+    "Soma de casos_dengue": 8439,
+    "Nome": "CANARANA"
+  },
+  {
+    "Soma de casos_dengue": 8326,
+    "Nome": "PICOS"
+  },
+  {
+    "Soma de casos_dengue": 8283,
+    "Nome": "CAMPO MAIOR"
+  },
+  {
+    "Soma de casos_dengue": 8165,
+    "Nome": "TRÊS RIOS"
+  },
+  {
+    "Soma de casos_dengue": 8162,
+    "Nome": "SERTÃO DE SENADOR POMPEU"
+  },
+  {
+    "Soma de casos_dengue": 8108,
+    "Nome": "ANGICOS"
+  },
+  {
+    "Soma de casos_dengue": 8087,
+    "Nome": "PEDRA AZUL"
+  },
+  {
+    "Soma de casos_dengue": 8082,
+    "Nome": "ALTO MÉDIO CANINDÉ"
+  },
+  {
+    "Soma de casos_dengue": 8076,
+    "Nome": "SANTANA DO IPANEMA"
+  },
+  {
+    "Soma de casos_dengue": 8026,
+    "Nome": "MIRACEMA DO TOCANTINS"
+  },
+  {
+    "Soma de casos_dengue": 7974,
+    "Nome": "BATURITÉ"
+  },
+  {
+    "Soma de casos_dengue": 7966,
+    "Nome": "BRUMADO"
+  },
+  {
+    "Soma de casos_dengue": 7916,
+    "Nome": "BATATAIS"
+  },
+  {
+    "Soma de casos_dengue": 7899,
+    "Nome": "VALE DO IPANEMA"
+  },
+  {
+    "Soma de casos_dengue": 7854,
+    "Nome": "BAIXA VERDE"
+  },
+  {
+    "Soma de casos_dengue": 7852,
+    "Nome": "ARARIPINA"
+  },
+  {
+    "Soma de casos_dengue": 7842,
+    "Nome": "LITORAL PIAUIENSE"
+  },
+  {
+    "Soma de casos_dengue": 7790,
+    "Nome": "BREJO PERNAMBUCANO"
+  },
+  {
+    "Soma de casos_dengue": 7789,
+    "Nome": "CAMETÁ"
+  },
+  {
+    "Soma de casos_dengue": 7762,
+    "Nome": "MACAU"
+  },
+  {
+    "Soma de casos_dengue": 7758,
+    "Nome": "PIRES DO RIO"
+  },
+  {
+    "Soma de casos_dengue": 7734,
+    "Nome": "SÃO FÉLIX DO XINGU"
+  },
+  {
+    "Soma de casos_dengue": 7702,
+    "Nome": "BRAGANÇA PAULISTA"
+  },
+  {
+    "Soma de casos_dengue": 7667,
+    "Nome": "BOM JESUS DA LAPA"
+  },
+  {
+    "Soma de casos_dengue": 7578,
+    "Nome": "ALTO GUAPORÉ"
+  },
+  {
+    "Soma de casos_dengue": 7572,
+    "Nome": "CASSILÂNDIA"
+  },
+  {
+    "Soma de casos_dengue": 7504,
+    "Nome": "BRASILÉIA"
+  },
+  {
+    "Soma de casos_dengue": 7398,
+    "Nome": "BAIXO PARNAÍBA PIAUIENSE"
+  },
+  {
+    "Soma de casos_dengue": 7354,
+    "Nome": "CAXIAS"
+  },
+  {
+    "Soma de casos_dengue": 7186,
+    "Nome": "RIO VERMELHO"
+  },
+  {
+    "Soma de casos_dengue": 7168,
+    "Nome": "SERRANA DO SERTÃO ALAGOANO"
+  },
+  {
+    "Soma de casos_dengue": 7160,
+    "Nome": "PIANCÓ"
+  },
+  {
+    "Soma de casos_dengue": 7075,
+    "Nome": "SÃO MIGUEL DOS CAMPOS"
+  },
+  {
+    "Soma de casos_dengue": 7005,
+    "Nome": "GUAJARÁ-MIRIM"
+  },
+  {
+    "Soma de casos_dengue": 6905,
+    "Nome": "SÃO MIGUEL DO ARAGUAIA"
+  },
+  {
+    "Soma de casos_dengue": 6848,
+    "Nome": "VALE DO AÇU"
+  },
+  {
+    "Soma de casos_dengue": 6818,
+    "Nome": "MÉDIO MEARIM"
+  },
+  {
+    "Soma de casos_dengue": 6818,
+    "Nome": "VIÇOSA"
+  },
+  {
+    "Soma de casos_dengue": 6780,
+    "Nome": "ARAGARÇAS"
+  },
+  {
+    "Soma de casos_dengue": 6770,
+    "Nome": "IPORÁ"
+  },
+  {
+    "Soma de casos_dengue": 6710,
+    "Nome": "AGRESTE DE ITABAIANA"
+  },
+  {
+    "Soma de casos_dengue": 6689,
+    "Nome": "BRAGANTINA"
+  },
+  {
+    "Soma de casos_dengue": 6643,
+    "Nome": "ITAPIPOCA"
+  },
+  {
+    "Soma de casos_dengue": 6562,
+    "Nome": "PATOS"
+  },
+  {
+    "Soma de casos_dengue": 6551,
+    "Nome": "ARIQUEMES"
+  },
+  {
+    "Soma de casos_dengue": 6548,
+    "Nome": "MANTENA"
+  },
+  {
+    "Soma de casos_dengue": 6275,
+    "Nome": "ITAJAÍ"
+  },
+  {
+    "Soma de casos_dengue": 6229,
+    "Nome": "PIUÍ"
+  },
+  {
+    "Soma de casos_dengue": 6217,
+    "Nome": "OIAPOQUE"
+  },
+  {
+    "Soma de casos_dengue": 6114,
+    "Nome": "ALMENARA"
+  },
+  {
+    "Soma de casos_dengue": 6109,
+    "Nome": "BARRA"
+  },
+  {
+    "Soma de casos_dengue": 6102,
+    "Nome": "SANTA QUITÉRIA"
+  },
+  {
+    "Soma de casos_dengue": 5787,
+    "Nome": "ARINOS"
+  },
+  {
+    "Soma de casos_dengue": 5784,
+    "Nome": "CONCEIÇÃO DO ARAGUAIA"
+  },
+  {
+    "Soma de casos_dengue": 5735,
+    "Nome": "GUARABIRA"
+  },
+  {
+    "Soma de casos_dengue": 5709,
+    "Nome": "LITORAL NORDESTE"
+  },
+  {
+    "Soma de casos_dengue": 5678,
+    "Nome": "CURIMATAÚ OCIDENTAL"
+  },
+  {
+    "Soma de casos_dengue": 5604,
+    "Nome": "PAULO AFONSO"
+  },
+  {
+    "Soma de casos_dengue": 5593,
+    "Nome": "CHAPADAS DO ALTO ITAPECURU"
+  },
+  {
+    "Soma de casos_dengue": 5593,
+    "Nome": "SERRA DE SANTANA"
+  },
+  {
+    "Soma de casos_dengue": 5541,
+    "Nome": "ÓBIDOS"
+  },
+  {
+    "Soma de casos_dengue": 5524,
+    "Nome": "SÃO JOÃO DEL REI"
+  },
+  {
+    "Soma de casos_dengue": 5523,
+    "Nome": "CHAPADA DO ARARIPE"
+  },
+  {
+    "Soma de casos_dengue": 5513,
+    "Nome": "BARRO"
+  },
+  {
+    "Soma de casos_dengue": 5495,
+    "Nome": "BREJO PARAIBANO"
+  },
+  {
+    "Soma de casos_dengue": 5470,
+    "Nome": "SALINAS"
+  },
+  {
+    "Soma de casos_dengue": 5466,
+    "Nome": "ALVORADA D'OESTE"
+  },
+  {
+    "Soma de casos_dengue": 5353,
+    "Nome": "ITAPORANGA"
+  },
+  {
+    "Soma de casos_dengue": 5321,
+    "Nome": "COTEGIPE"
+  },
+  {
+    "Soma de casos_dengue": 5286,
+    "Nome": "GERAIS DE BALSAS"
+  },
+  {
+    "Soma de casos_dengue": 5217,
+    "Nome": "PARANATINGA"
+  },
+  {
+    "Soma de casos_dengue": 5166,
+    "Nome": "TESOURO"
+  },
+  {
+    "Soma de casos_dengue": 5155,
+    "Nome": "SERRA DE SÃO MIGUEL"
+  },
+  {
+    "Soma de casos_dengue": 5113,
+    "Nome": "SERIDÓ ORIENTAL PARAIBANO"
+  },
+  {
+    "Soma de casos_dengue": 5071,
+    "Nome": "NOVO HORIZONTE"
+  },
+  {
+    "Soma de casos_dengue": 4995,
+    "Nome": "RIO NEGRO"
+  },
+  {
+    "Soma de casos_dengue": 4994,
+    "Nome": "BOQUIM"
+  },
+  {
+    "Soma de casos_dengue": 4989,
+    "Nome": "CATU"
+  },
+  {
+    "Soma de casos_dengue": 4977,
+    "Nome": "COLORADO DO OESTE"
+  },
+  {
+    "Soma de casos_dengue": 4965,
+    "Nome": "SERRANA"
+  },
+  {
+    "Soma de casos_dengue": 4940,
+    "Nome": "PACAJUS"
+  },
+  {
+    "Soma de casos_dengue": 4800,
+    "Nome": "CONSELHEIRO LAFAIETE"
+  },
+  {
+    "Soma de casos_dengue": 4788,
+    "Nome": "ITAGUARA"
+  },
+  {
+    "Soma de casos_dengue": 4783,
+    "Nome": "UMARIZAL"
+  },
+  {
+    "Soma de casos_dengue": 4779,
+    "Nome": "CASTANHAL"
+  },
+  {
+    "Soma de casos_dengue": 4711,
+    "Nome": "MADEIRA"
+  },
+  {
+    "Soma de casos_dengue": 4688,
+    "Nome": "FLORAÍ"
+  },
+  {
+    "Soma de casos_dengue": 4677,
+    "Nome": "ITAPEMIRIM"
+  },
+  {
+    "Soma de casos_dengue": 4615,
+    "Nome": "LITORAL DE ARACATI"
+  },
+  {
+    "Soma de casos_dengue": 4596,
+    "Nome": "VALENÇA"
+  },
+  {
+    "Soma de casos_dengue": 4533,
+    "Nome": "ITABAIANA"
+  },
+  {
+    "Soma de casos_dengue": 4496,
+    "Nome": "LIVRAMENTO DO BRUMADO"
+  },
+  {
+    "Soma de casos_dengue": 4438,
+    "Nome": "JEREMOABO"
+  },
+  {
+    "Soma de casos_dengue": 4431,
+    "Nome": "CHAPADINHA"
+  },
+  {
+    "Soma de casos_dengue": 4426,
+    "Nome": "MÉDIO CURU"
+  },
+  {
+    "Soma de casos_dengue": 4425,
+    "Nome": "CHAPADA DOS VEADEIROS"
+  },
+  {
+    "Soma de casos_dengue": 4405,
+    "Nome": "COARI"
+  },
+  {
+    "Soma de casos_dengue": 4370,
+    "Nome": "AURIFLAMA"
+  },
+  {
+    "Soma de casos_dengue": 4363,
+    "Nome": "BARBACENA"
+  },
+  {
+    "Soma de casos_dengue": 4357,
+    "Nome": "GUAMÁ"
+  },
+  {
+    "Soma de casos_dengue": 4338,
+    "Nome": "LITORAL NORTE ALAGOANO"
+  },
+  {
+    "Soma de casos_dengue": 4269,
+    "Nome": "TOBIAS BARRETO"
+  },
+  {
+    "Soma de casos_dengue": 4260,
+    "Nome": "ITAPARICA"
+  },
+  {
+    "Soma de casos_dengue": 4240,
+    "Nome": "DIAMANTINA"
+  },
+  {
+    "Soma de casos_dengue": 4189,
+    "Nome": "SUDESTE DE RORAIMA"
+  },
+  {
+    "Soma de casos_dengue": 4156,
+    "Nome": "AFONSO CLÁUDIO"
+  },
+  {
+    "Soma de casos_dengue": 4152,
+    "Nome": "SÃO RAIMUNDO NONATO"
+  },
+  {
+    "Soma de casos_dengue": 4146,
+    "Nome": "ITACOATIARA"
+  },
+  {
+    "Soma de casos_dengue": 4123,
+    "Nome": "TEFÉ"
+  },
+  {
+    "Soma de casos_dengue": 4117,
+    "Nome": "OLIVEIRA"
+  },
+  {
+    "Soma de casos_dengue": 4081,
+    "Nome": "ALAGOINHAS"
+  },
+  {
+    "Soma de casos_dengue": 4065,
+    "Nome": "ITAPECURU MIRIM"
+  },
+  {
+    "Soma de casos_dengue": 4033,
+    "Nome": "CHAPECÓ"
+  },
+  {
+    "Soma de casos_dengue": 4008,
+    "Nome": "ALAGOANA DO SERTÃO DO SÃO FRANCISCO"
+  },
+  {
+    "Soma de casos_dengue": 3983,
+    "Nome": "CHOROZINHO"
+  },
+  {
+    "Soma de casos_dengue": 3938,
+    "Nome": "IJUÍ"
+  },
+  {
+    "Soma de casos_dengue": 3927,
+    "Nome": "CURIMATAÚ ORIENTAL"
+  },
+  {
+    "Soma de casos_dengue": 3920,
+    "Nome": "CARACARAÍ"
+  },
+  {
+    "Soma de casos_dengue": 3916,
+    "Nome": "SALGADO"
+  },
+  {
+    "Soma de casos_dengue": 3785,
+    "Nome": "ESTÂNCIA"
+  },
+  {
+    "Soma de casos_dengue": 3776,
+    "Nome": "BATALHA"
+  },
+  {
+    "Soma de casos_dengue": 3762,
+    "Nome": "ALTO SOLIMÕES"
+  },
+  {
+    "Soma de casos_dengue": 3759,
+    "Nome": "TOMÉ-AÇU"
+  },
+  {
+    "Soma de casos_dengue": 3722,
+    "Nome": "TARAUACÁ"
+  },
+  {
+    "Soma de casos_dengue": 3683,
+    "Nome": "PROPRIÁ"
+  },
+  {
+    "Soma de casos_dengue": 3525,
+    "Nome": "SERRANA DOS QUILOMBOS"
+  },
+  {
+    "Soma de casos_dengue": 3470,
+    "Nome": "BAIXO CURU"
+  },
+  {
+    "Soma de casos_dengue": 3469,
+    "Nome": "SÃO LOURENÇO"
+  },
+  {
+    "Soma de casos_dengue": 3461,
+    "Nome": "FRANCISCO BELTRÃO"
+  },
+  {
+    "Soma de casos_dengue": 3439,
+    "Nome": "LAVRAS DA MANGABEIRA"
+  },
+  {
+    "Soma de casos_dengue": 3435,
+    "Nome": "VALENÇA DO PIAUÍ"
+  },
+  {
+    "Soma de casos_dengue": 3418,
+    "Nome": "PORTO FRANCO"
+  },
+  {
+    "Soma de casos_dengue": 3409,
+    "Nome": "TATUÍ"
+  },
+  {
+    "Soma de casos_dengue": 3402,
+    "Nome": "SERGIPANA DO SERTÃO DO SÃO FRANCISCO"
+  },
+  {
+    "Soma de casos_dengue": 3261,
+    "Nome": "ESPERANÇA"
+  },
+  {
+    "Soma de casos_dengue": 3256,
+    "Nome": "CARIRI ORIENTAL"
+  },
+  {
+    "Soma de casos_dengue": 3191,
+    "Nome": "SERIDÓ OCIDENTAL PARAIBANO"
+  },
+  {
+    "Soma de casos_dengue": 3166,
+    "Nome": "BAIXO COTINGUIBA"
+  },
+  {
+    "Soma de casos_dengue": 3134,
+    "Nome": "CHAPADA DO APODI"
+  },
+  {
+    "Soma de casos_dengue": 3129,
+    "Nome": "SERRA DO PEREIRO"
+  },
+  {
+    "Soma de casos_dengue": 3116,
+    "Nome": "MÉDIO OESTE"
+  },
+  {
+    "Soma de casos_dengue": 3089,
+    "Nome": "CAPANEMA"
+  },
+  {
+    "Soma de casos_dengue": 3060,
+    "Nome": "PRESIDENTE DUTRA"
+  },
+  {
+    "Soma de casos_dengue": 3053,
+    "Nome": "SAPÉ"
+  },
+  {
+    "Soma de casos_dengue": 3013,
+    "Nome": "MÉDIO PARNAÍBA PIAUIENSE"
+  },
+  {
+    "Soma de casos_dengue": 3002,
+    "Nome": "JALAPÃO"
+  },
+  {
+    "Soma de casos_dengue": 2963,
+    "Nome": "OURO PRETO"
+  },
+  {
+    "Soma de casos_dengue": 2957,
+    "Nome": "CURITIBA"
+  },
+  {
+    "Soma de casos_dengue": 2921,
+    "Nome": "ROSÁRIO"
+  },
+  {
+    "Soma de casos_dengue": 2870,
+    "Nome": "BOTUCATU"
+  },
+  {
+    "Soma de casos_dengue": 2854,
+    "Nome": "PORTO ALEGRE"
+  },
+  {
+    "Soma de casos_dengue": 2847,
+    "Nome": "COREAÚ"
+  },
+  {
+    "Soma de casos_dengue": 2769,
+    "Nome": "FLORIANO"
+  },
+  {
+    "Soma de casos_dengue": 2693,
+    "Nome": "APUCARANA"
+  },
+  {
+    "Soma de casos_dengue": 2650,
+    "Nome": "SENA MADUREIRA"
+  },
+  {
+    "Soma de casos_dengue": 2615,
+    "Nome": "CARIRA"
+  },
+  {
+    "Soma de casos_dengue": 2615,
+    "Nome": "IBIAPABA"
+  },
+  {
+    "Soma de casos_dengue": 2577,
+    "Nome": "ALTO PARAGUAI"
+  },
+  {
+    "Soma de casos_dengue": 2575,
+    "Nome": "MÉDIO JAGUARIBE"
+  },
+  {
+    "Soma de casos_dengue": 2567,
+    "Nome": "ITAJUBÁ"
+  },
+  {
+    "Soma de casos_dengue": 2550,
+    "Nome": "ALTO ARAGUAIA"
+  },
+  {
+    "Soma de casos_dengue": 2540,
+    "Nome": "BAIXADA MARANHENSE"
+  },
+  {
+    "Soma de casos_dengue": 2534,
+    "Nome": "VÁRZEA ALEGRE"
+  },
+  {
+    "Soma de casos_dengue": 2524,
+    "Nome": "ALTO MÉDIO GURGUÉIA"
+  },
+  {
+    "Soma de casos_dengue": 2503,
+    "Nome": "JURUÁ"
+  },
+  {
+    "Soma de casos_dengue": 2389,
+    "Nome": "GUANHÃES"
+  },
+  {
+    "Soma de casos_dengue": 2369,
+    "Nome": "LITORAL NORTE"
+  },
+  {
+    "Soma de casos_dengue": 2367,
+    "Nome": "LITORAL OCIDENTAL MARANHENSE"
+  },
+  {
+    "Soma de casos_dengue": 2328,
+    "Nome": "PIO IX"
+  },
+  {
+    "Soma de casos_dengue": 2311,
+    "Nome": "URUBURETAMA"
+  },
+  {
+    "Soma de casos_dengue": 2307,
+    "Nome": "SANTA RITA DO SAPUCAÍ"
+  },
+  {
+    "Soma de casos_dengue": 2283,
+    "Nome": "PEÇANHA"
+  },
+  {
+    "Soma de casos_dengue": 2279,
+    "Nome": "CARIRIAÇU"
+  },
+  {
+    "Soma de casos_dengue": 2266,
+    "Nome": "UMBUZEIRO"
+  },
+  {
+    "Soma de casos_dengue": 2228,
+    "Nome": "SANTA TERESA"
+  },
+  {
+    "Soma de casos_dengue": 2227,
+    "Nome": "POÇOS DE CALDAS"
+  },
+  {
+    "Soma de casos_dengue": 2185,
+    "Nome": "BAIXO PARNAÍBA MARANHENSE"
+  },
+  {
+    "Soma de casos_dengue": 2174,
+    "Nome": "IVAIPORÃ"
+  },
+  {
+    "Soma de casos_dengue": 2100,
+    "Nome": "ARARI"
+  },
+  {
+    "Soma de casos_dengue": 2061,
+    "Nome": "PARINTINS"
+  },
+  {
+    "Soma de casos_dengue": 2050,
+    "Nome": "CONCEIÇÃO DO MATO DENTRO"
+  },
+  {
+    "Soma de casos_dengue": 1988,
+    "Nome": "LENÇÓIS MARANHENSES"
+  },
+  {
+    "Soma de casos_dengue": 1977,
+    "Nome": "AGRESTE DE LAGARTO"
+  },
+  {
+    "Soma de casos_dengue": 1973,
+    "Nome": "ROSÁRIO OESTE"
+  },
+  {
+    "Soma de casos_dengue": 1714,
+    "Nome": "CHAPADAS DO EXTREMO SUL PIAUIENSE"
+  },
+  {
+    "Soma de casos_dengue": 1714,
+    "Nome": "GRÃO MOGOL"
+  },
+  {
+    "Soma de casos_dengue": 1681,
+    "Nome": "MAZAGÃO"
+  },
+  {
+    "Soma de casos_dengue": 1674,
+    "Nome": "NORDESTE DE RORAIMA"
+  },
+  {
+    "Soma de casos_dengue": 1613,
+    "Nome": "ENTRE RIOS"
+  },
+  {
+    "Soma de casos_dengue": 1528,
+    "Nome": "FAXINAL"
+  },
+  {
+    "Soma de casos_dengue": 1505,
+    "Nome": "POUSO ALEGRE"
+  },
+  {
+    "Soma de casos_dengue": 1480,
+    "Nome": "CODÓ"
+  },
+  {
+    "Soma de casos_dengue": 1449,
+    "Nome": "NOSSA SENHORA DAS DORES"
+  },
+  {
+    "Soma de casos_dengue": 1448,
+    "Nome": "PURUS"
+  },
+  {
+    "Soma de casos_dengue": 1315,
+    "Nome": "MERUOCA"
+  },
+  {
+    "Soma de casos_dengue": 1282,
+    "Nome": "COELHO NETO"
+  },
+  {
+    "Soma de casos_dengue": 1282,
+    "Nome": "ITAPETININGA"
+  },
+  {
+    "Soma de casos_dengue": 1206,
+    "Nome": "ALTO PARNAÍBA PIAUIENSE"
+  },
+  {
+    "Soma de casos_dengue": 1142,
+    "Nome": "CHAPADAS DAS MANGABEIRAS"
+  },
+  {
+    "Soma de casos_dengue": 1138,
+    "Nome": "FERNANDO DE NORONHA"
+  },
+  {
+    "Soma de casos_dengue": 1090,
+    "Nome": "BERTOLÍNIA"
+  },
+  {
+    "Soma de casos_dengue": 1029,
+    "Nome": "FLORIANÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 1003,
+    "Nome": "ITAPEVA"
+  },
+  {
+    "Soma de casos_dengue": 993,
+    "Nome": "SANTO ÂNGELO"
+  },
+  {
+    "Soma de casos_dengue": 985,
+    "Nome": "BANANAL"
+  },
+  {
+    "Soma de casos_dengue": 985,
+    "Nome": "PORTEL"
+  },
+  {
+    "Soma de casos_dengue": 969,
+    "Nome": "GUARAPUAVA"
+  },
+  {
+    "Soma de casos_dengue": 921,
+    "Nome": "SANTA ROSA"
+  },
+  {
+    "Soma de casos_dengue": 912,
+    "Nome": "FREDERICO WESTPHALEN"
+  },
+  {
+    "Soma de casos_dengue": 880,
+    "Nome": "AVARÉ"
+  },
+  {
+    "Soma de casos_dengue": 845,
+    "Nome": "JAPARATUBA"
+  },
+  {
+    "Soma de casos_dengue": 821,
+    "Nome": "PIEDADE"
+  },
+  {
+    "Soma de casos_dengue": 803,
+    "Nome": "BOCA DO ACRE"
+  },
+  {
+    "Soma de casos_dengue": 768,
+    "Nome": "TRAIPU"
+  },
+  {
+    "Soma de casos_dengue": 722,
+    "Nome": "COTINGUIBA"
+  },
+  {
+    "Soma de casos_dengue": 698,
+    "Nome": "PARAIBUNA/PARAITINGA"
+  },
+  {
+    "Soma de casos_dengue": 613,
+    "Nome": "SANTA MARIA MADALENA"
+  },
+  {
+    "Soma de casos_dengue": 595,
+    "Nome": "FUROS DE BREVES"
+  },
+  {
+    "Soma de casos_dengue": 544,
+    "Nome": "CARAZINHO"
+  },
+  {
+    "Soma de casos_dengue": 528,
+    "Nome": "WENCESLAU BRAZ"
+  },
+  {
+    "Soma de casos_dengue": 440,
+    "Nome": "JOINVILLE"
+  },
+  {
+    "Soma de casos_dengue": 426,
+    "Nome": "RIO PRETO DA EVA"
+  },
+  {
+    "Soma de casos_dengue": 412,
+    "Nome": "SÃO MIGUEL DO OESTE"
+  },
+  {
+    "Soma de casos_dengue": 397,
+    "Nome": "CAPÃO BONITO"
+  },
+  {
+    "Soma de casos_dengue": 381,
+    "Nome": "CERRO LARGO"
+  },
+  {
+    "Soma de casos_dengue": 377,
+    "Nome": "TRÊS PASSOS"
+  },
+  {
+    "Soma de casos_dengue": 376,
+    "Nome": "BLUMENAU"
+  },
+  {
+    "Soma de casos_dengue": 338,
+    "Nome": "PATO BRANCO"
+  },
+  {
+    "Soma de casos_dengue": 301,
+    "Nome": "ALMEIRIM"
+  },
+  {
+    "Soma de casos_dengue": 277,
+    "Nome": "ANDRELÂNDIA"
+  },
+  {
+    "Soma de casos_dengue": 274,
+    "Nome": "CAXIAS DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 237,
+    "Nome": "XANXERÊ"
+  },
+  {
+    "Soma de casos_dengue": 233,
+    "Nome": "AMAPÁ"
+  },
+  {
+    "Soma de casos_dengue": 216,
+    "Nome": "PASSO FUNDO"
+  },
+  {
+    "Soma de casos_dengue": 208,
+    "Nome": "TUBARÃO"
+  },
+  {
+    "Soma de casos_dengue": 199,
+    "Nome": "PONTA GROSSA"
+  },
+  {
+    "Soma de casos_dengue": 198,
+    "Nome": "TELÊMACO BORBA"
+  },
+  {
+    "Soma de casos_dengue": 195,
+    "Nome": "CAMPOS DO JORDÃO"
+  },
+  {
+    "Soma de casos_dengue": 184,
+    "Nome": "PRUDENTÓPOLIS"
+  },
+  {
+    "Soma de casos_dengue": 133,
+    "Nome": "SANTA CRUZ DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 126,
+    "Nome": "NÃO-ME-TOQUE"
+  },
+  {
+    "Soma de casos_dengue": 123,
+    "Nome": "CRICIÚMA"
+  },
+  {
+    "Soma de casos_dengue": 123,
+    "Nome": "GRAMADO-CANELA"
+  },
+  {
+    "Soma de casos_dengue": 116,
+    "Nome": "ERECHIM"
+  },
+  {
+    "Soma de casos_dengue": 112,
+    "Nome": "CONCÓRDIA"
+  },
+  {
+    "Soma de casos_dengue": 106,
+    "Nome": "OSÓRIO"
+  },
+  {
+    "Soma de casos_dengue": 98,
+    "Nome": "CANOINHAS"
+  },
+  {
+    "Soma de casos_dengue": 96,
+    "Nome": "JAPURÁ"
+  },
+  {
+    "Soma de casos_dengue": 93,
+    "Nome": "LITORAL LAGUNAR"
+  },
+  {
+    "Soma de casos_dengue": 86,
+    "Nome": "JOAÇABA"
+  },
+  {
+    "Soma de casos_dengue": 85,
+    "Nome": "LAJEADO-ESTRELA"
+  },
+  {
+    "Soma de casos_dengue": 81,
+    "Nome": "IBAITI"
+  },
+  {
+    "Soma de casos_dengue": 79,
+    "Nome": "CRUZ ALTA"
+  },
+  {
+    "Soma de casos_dengue": 79,
+    "Nome": "MONTENEGRO"
+  },
+  {
+    "Soma de casos_dengue": 73,
+    "Nome": "JAGUARIAÍVA"
+  },
+  {
+    "Soma de casos_dengue": 73,
+    "Nome": "SANTA MARIA"
+  },
+  {
+    "Soma de casos_dengue": 70,
+    "Nome": "PELOTAS"
+  },
+  {
+    "Soma de casos_dengue": 64,
+    "Nome": "ARARANGUÁ"
+  },
+  {
+    "Soma de casos_dengue": 63,
+    "Nome": "CAMPANHA OCIDENTAL"
+  },
+  {
+    "Soma de casos_dengue": 63,
+    "Nome": "TIJUCAS"
+  },
+  {
+    "Soma de casos_dengue": 59,
+    "Nome": "CAMPOS DE LAGES"
+  },
+  {
+    "Soma de casos_dengue": 53,
+    "Nome": "RIO DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 49,
+    "Nome": "UNIÃO DA VITÓRIA"
+  },
+  {
+    "Soma de casos_dengue": 47,
+    "Nome": "PITANGA"
+  },
+  {
+    "Soma de casos_dengue": 43,
+    "Nome": "IRATI"
+  },
+  {
+    "Soma de casos_dengue": 43,
+    "Nome": "SÃO MATEUS DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 38,
+    "Nome": "CERRO AZUL"
+  },
+  {
+    "Soma de casos_dengue": 37,
+    "Nome": "SÃO JERÔNIMO"
+  },
+  {
+    "Soma de casos_dengue": 33,
+    "Nome": "CURITIBANOS"
+  },
+  {
+    "Soma de casos_dengue": 33,
+    "Nome": "GUAPORÉ"
+  },
+  {
+    "Soma de casos_dengue": 33,
+    "Nome": "VACARIA"
+  },
+  {
+    "Soma de casos_dengue": 31,
+    "Nome": "SANTIAGO"
+  },
+  {
+    "Soma de casos_dengue": 28,
+    "Nome": "CAMAQUÃ"
+  },
+  {
+    "Soma de casos_dengue": 27,
+    "Nome": "SÃO BENTO DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 25,
+    "Nome": "PALMAS"
+  },
+  {
+    "Soma de casos_dengue": 24,
+    "Nome": "CAMPANHA MERIDIONAL"
+  },
+  {
+    "Soma de casos_dengue": 24,
+    "Nome": "LAPA"
+  },
+  {
+    "Soma de casos_dengue": 23,
+    "Nome": "CACHOEIRA DO SUL"
+  },
+  {
+    "Soma de casos_dengue": 21,
+    "Nome": "CAMPANHA CENTRAL"
+  },
+  {
+    "Soma de casos_dengue": 19,
+    "Nome": "ITUPORANGA"
+  },
+  {
+    "Soma de casos_dengue": 18,
+    "Nome": "SANANDUVA"
+  },
+  {
+    "Soma de casos_dengue": 17,
+    "Nome": "SOLEDADE"
+  },
+  {
+    "Soma de casos_dengue": 13,
+    "Nome": "SERRAS DE SUDESTE"
+  },
+  {
+    "Soma de casos_dengue": 13,
+    "Nome": "TABULEIRO"
+  },
+  {
+    "Soma de casos_dengue": 12,
+    "Nome": "RESTINGA SECA"
+  },
+  {
+    "Soma de casos_dengue": 5,
+    "Nome": "JAGUARÃO"
+  }
+]

@@ -431,7 +431,7 @@
     <created_date>2023/10/03 11:24:15.506</created_date>
     <modified_user>-</modified_user>
     <modified_date>2023/10/03 11:24:15.506</modified_date>
-    <key_for_session_key/>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -439,16 +439,26 @@
   <order>
     <hop>
       <from>DengueDatabase</from>
-      <to>remove column</to>
+      <to>Null if</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>remove column</from>
+      <from>Null if</from>
       <to>If field value is null</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>If field value is null</from>
+      <to>Sort rows</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sort rows</from>
+      <to>Group by</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Group by</from>
       <to>JSON output</to>
       <enabled>Y</enabled>
     </hop>
@@ -464,7 +474,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\mikae\OneDrive\Documentos\5º semestre\Banco de Dados 2\Projeto final\DataBase\data_2000_2019.csv</filename>
+    <filename>C:\Users\mikae\OneDrive\Documentos\5º semestre\Banco de Dados 2\Projeto final\geodata-br-master\geojson\DataBase\data_2000_2019.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -775,14 +785,14 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>176</yloc>
+      <xloc>96</xloc>
+      <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>remove column</name>
-    <type>SelectValues</type>
+    <name>Group by</name>
+    <type>GroupBy</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -791,179 +801,18 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
+    <all_rows>N</all_rows>
+    <ignore_aggregate>N</ignore_aggregate>
+    <field_ignore/>
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>grp</prefix>
+    <add_linenr>N</add_linenr>
+    <linenr_fieldname/>
+    <give_back_row>N</give_back_row>
+    <group>
+      </group>
     <fields>
-      <field>
-        <name>micro_code</name>
-        <rename/>
-      </field>
-      <field>
-        <name>micro_name</name>
-        <rename/>
-      </field>
-      <field>
-        <name>micro_name_ibge</name>
-        <rename/>
-      </field>
-      <field>
-        <name>meso_code</name>
-        <rename/>
-      </field>
-      <field>
-        <name>meso_name</name>
-        <rename/>
-      </field>
-      <field>
-        <name>state_code</name>
-        <rename/>
-      </field>
-      <field>
-        <name>state_name</name>
-        <rename/>
-      </field>
-      <field>
-        <name>region_code</name>
-        <rename/>
-      </field>
-      <field>
-        <name>region_name</name>
-        <rename/>
-      </field>
-      <field>
-        <name>biome_code</name>
-        <rename/>
-      </field>
-      <field>
-        <name>biome_name</name>
-        <rename/>
-      </field>
-      <field>
-        <name>ecozone_code</name>
-        <rename/>
-      </field>
-      <field>
-        <name>ecozone_name</name>
-        <rename/>
-      </field>
-      <field>
-        <name>main_climate</name>
-        <rename/>
-      </field>
-      <field>
-        <name>month</name>
-        <rename/>
-      </field>
-      <field>
-        <name>year</name>
-        <rename/>
-      </field>
-      <field>
-        <name>time</name>
-        <rename/>
-      </field>
-      <field>
-        <name>dengue_cases</name>
-        <rename/>
-      </field>
-      <field>
-        <name>population</name>
-        <rename/>
-      </field>
-      <field>
-        <name>pop_density</name>
-        <rename/>
-      </field>
-      <field>
-        <name>tmax</name>
-        <rename/>
-      </field>
-      <field>
-        <name>tmin</name>
-        <rename/>
-      </field>
-      <field>
-        <name>pdsi</name>
-        <rename/>
-      </field>
-      <field>
-        <name>urban</name>
-        <rename/>
-      </field>
-      <field>
-        <name>water_network</name>
-        <rename/>
-      </field>
-      <field>
-        <name>water_shortage</name>
-        <rename/>
-      </field>
-      <select_unspecified>Y</select_unspecified>
-      <remove>
-        <name>micro_code</name>
-      </remove>
-      <remove>
-        <name>micro_name</name>
-      </remove>
-      <remove>
-        <name>meso_code</name>
-      </remove>
-      <remove>
-        <name>meso_name</name>
-      </remove>
-      <remove>
-        <name>state_code</name>
-      </remove>
-      <remove>
-        <name>state_name</name>
-      </remove>
-      <remove>
-        <name>region_code</name>
-      </remove>
-      <remove>
-        <name>region_name</name>
-      </remove>
-      <remove>
-        <name>biome_code</name>
-      </remove>
-      <remove>
-        <name>biome_name</name>
-      </remove>
-      <remove>
-        <name>main_climate</name>
-      </remove>
-      <remove>
-        <name>month</name>
-      </remove>
-      <remove>
-        <name>year</name>
-      </remove>
-      <remove>
-        <name>dengue_cases</name>
-      </remove>
-      <remove>
-        <name>population</name>
-      </remove>
-      <remove>
-        <name>pop_density</name>
-      </remove>
-      <remove>
-        <name>tmax</name>
-      </remove>
-      <remove>
-        <name>tmin</name>
-      </remove>
-      <remove>
-        <name>pdsi</name>
-      </remove>
-      <remove>
-        <name>urban</name>
-      </remove>
-      <remove>
-        <name>water_network</name>
-      </remove>
-      <remove>
-        <name>water_shortage</name>
-      </remove>
-    </fields>
+      </fields>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -973,8 +822,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>400</xloc>
-      <yloc>112</yloc>
+      <xloc>560</xloc>
+      <yloc>288</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -989,15 +838,33 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <replaceAllByValue/>
+    <replaceAllByValue>0</replaceAllByValue>
     <replaceAllMask/>
-    <selectFields>N</selectFields>
+    <selectFields>Y</selectFields>
     <selectValuesType>N</selectValuesType>
-    <setEmptyStringAll>Y</setEmptyStringAll>
+    <setEmptyStringAll>N</setEmptyStringAll>
     <valuetypes>
       </valuetypes>
     <fields>
-      </fields>
+      <field>
+        <name>dengue_cases</name>
+        <value>0</value>
+        <mask/>
+        <set_empty_string>N</set_empty_string>
+      </field>
+      <field>
+        <name>population</name>
+        <value>0</value>
+        <mask/>
+        <set_empty_string>N</set_empty_string>
+      </field>
+      <field>
+        <name>pop_density</name>
+        <value>0</value>
+        <mask/>
+        <set_empty_string>N</set_empty_string>
+      </field>
+    </fields>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -1007,8 +874,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>544</xloc>
-      <yloc>176</yloc>
+      <xloc>304</xloc>
+      <yloc>304</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1069,8 +936,81 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>736</xloc>
-      <yloc>96</yloc>
+      <xloc>720</xloc>
+      <yloc>288</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Null if</name>
+    <type>NullIf</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>dengue_cases</name>
+        <value>NA</value>
+      </field>
+      <field>
+        <name>population</name>
+        <value>NA</value>
+      </field>
+      <field>
+        <name>pop_density</name>
+        <value>NA</value>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>224</xloc>
+      <yloc>208</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Sort rows</name>
+    <type>SortRows</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>out</prefix>
+    <sort_size>1000000</sort_size>
+    <free_memory/>
+    <compress>N</compress>
+    <compress_variable/>
+    <unique_rows>N</unique_rows>
+    <fields>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>464</xloc>
+      <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

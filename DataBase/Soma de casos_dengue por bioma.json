@@ -1,0 +1,26 @@
+[
+  {
+    "Nome_bioma": "Amazon",
+    "Soma de casos_dengue": 884167
+  },
+  {
+    "Nome_bioma": "Atlantic Rainforest",
+    "Soma de casos_dengue": 6904602
+  },
+  {
+    "Nome_bioma": "Caatinga",
+    "Soma de casos_dengue": 1672420
+  },
+  {
+    "Nome_bioma": "Cerrado",
+    "Soma de casos_dengue": 3397782
+  },
+  {
+    "Nome_bioma": "Pampa",
+    "Soma de casos_dengue": 4434
+  },
+  {
+    "Nome_bioma": "Pantanal",
+    "Soma de casos_dengue": 31888
+  }
+]
